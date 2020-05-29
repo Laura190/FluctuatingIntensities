@@ -2,6 +2,7 @@
 Investigate the fluctuation of intensities of subresolution pixels from cell imaging (SR)
 
 Files:
+
 FluctuatingIntensities_TestingAndValidation.ipynb
 Jupyter notebook: For testing things out and checking they work
 
