@@ -12,5 +12,5 @@ FlucInte.yml
 Conda environment file: For creating and activating a conda environment that contains the required packages for FluctuatingIntensities.ipynb and FluctuatingIntensities_TestingAndValidation.ipynb. To create the environment run the command
 $ conda env create -f FlucInte.yml  
 
-*.csv
+*.csv\
 Results from FluctuatingIntensities.ipynb.
