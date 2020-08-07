@@ -1,5 +1,5 @@
 # FluctuatingIntensities
-Investigate the fluctuation of intensities of subresolution pixels from cell imaging (SR)
+Investigate the fluctuation of intensities of subresolution pixels from cell imaging at 80fps
 
 ## Files:
 FluctuatingIntensities_TestingAndValidation.ipynb  
